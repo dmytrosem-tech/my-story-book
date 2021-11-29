@@ -1,7 +1,7 @@
 import { HiHome, HiDesktopComputer, HiBookOpen } from "react-icons/hi";
 import Navigation from "./Navigation";
 
-const navItems = [
+export const navItems = [
   {
     text: "Main",
     icon: <HiHome size="24" />,
